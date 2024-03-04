@@ -1,0 +1,8 @@
+{
+  "common.footer": "internationalization 教程",
+  "page.home.head.title": "Next.js i18n 範例",
+  "page.home.head.meta.description": "Next.js i18n 範例 - 繁體中文",
+  "page.home.title": "歡迎來到 <b>Next.js i18n 教學</b>",
+  "page.home.description": "你在看繁體中文首頁 🚀",
+  "page.nested.title": "Nested route 範例"
+}
